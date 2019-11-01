@@ -34,15 +34,15 @@ ul {
     background-color: white;
 }
 
-ul li:hover {
+ul li:hover a{
     background-color: #0d2c32;
     color: white;
 }
 
-header li:hover {
+/* header li:hover {
     background-color: #0d2c32;
     color: white;
-}
+} */
 
 footer {
     background-color: white;
