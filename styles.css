@@ -39,7 +39,7 @@ ul li:hover {
     color: white;
 }
 
-header li a:hover {
+header li:hover {
     background-color: #0d2c32;
     color: white;
 }
