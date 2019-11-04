@@ -32,9 +32,9 @@ aside {
     overflow-y: auto;
 }
 
-ul {
+/* ul {
     background-color: white;
-}
+} */
 
 ul li:hover a{
     background-color: #0d2c32;
