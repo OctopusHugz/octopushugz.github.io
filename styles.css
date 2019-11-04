@@ -3,14 +3,17 @@ h1 {
 }
 
 iframe {
-    border: 0px;
+    border: 0;
 }
 
 body {
     display: flex;
     flex-direction: column;
-    background-image: url("http://www.chrmetal.com/20140519_175341_op_800x450.jpg");
     background-size: cover;
+    background: #EB5757;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #000000, #EB5757);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #000000, #EB5757); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 
 main {
@@ -61,7 +64,7 @@ input[type=text], select, textarea {
     box-sizing: border-box;
     margin-top: 6px;
     margin-bottom: 16px;
-    resize: vertical 
+    resize: vertical
 }
 
 input[type=submit] {
