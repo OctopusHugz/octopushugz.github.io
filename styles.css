@@ -36,9 +36,13 @@ aside {
     background-color: white;
 } */
 
-ul li:hover a{
-    background-color: #0d2c32;
+ul li a{
     color: white;
+}
+
+ul li:hover a{
+    background-color: orangered;
+    color: black;
 }
 
 /* header li:hover {
