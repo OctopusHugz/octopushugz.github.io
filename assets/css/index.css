@@ -1,3 +1,7 @@
 span [class^="nk-t-"] {
 	color: white;
 }
+
+.nk-navbar {
+	padding: 28px 0;
+}
