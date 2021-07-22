@@ -3,5 +3,18 @@ span [class^="nk-t-"] {
 }
 
 .nk-navbar {
-	padding: 28px 0;
+	padding: 25px 0;
+}
+
+.profile-pic-row {
+	display: flex;
+	justify-content: center;
+}
+
+.img-div {
+	width: 360px;
+}
+
+.profile-pic {
+	height: auto;
 }
