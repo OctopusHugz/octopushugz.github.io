@@ -26,3 +26,8 @@ span [class^="nk-t-"] {
 	align-items: center;
 	text-align: center;
 }
+
+.portfolio-project-img {
+	background-size: contain !important;
+	background-repeat: no-repeat !important;
+}
