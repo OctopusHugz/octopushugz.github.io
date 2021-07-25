@@ -28,6 +28,5 @@ span [class^="nk-t-"] {
 }
 
 .portfolio-project-img {
-	background-size: contain !important;
-	background-repeat: no-repeat !important;
+	background-position: 0% !important;
 }
